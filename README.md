@@ -1,3 +1,8 @@
-# github-2ilaht
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/github-2ilaht)
+Created on StackBlitz ⚡️
+
+frontend:
+nextjs, tailwind
+
+backend: flask server 
+https://replit.com/@RicoRico1/Flask-Server#main.py
